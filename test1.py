@@ -5,3 +5,6 @@
 #loop / repeat / itertion
 #ทำซ้่ำๆ
 #while , for loop , loop 
+
+#brake
+#continue
